@@ -3,21 +3,12 @@
 ![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png)
 
 ## Goals 🎯
-
-As the project has just started, your team doesn't have any data that can be used to create this application. Therefore, your job will be to: 
-
-* Scrape data from destinations 
-* Get weather data from each destination 
-* Get hotels' info about each destination
+* Get weather data for a list of destinations and determine the top 10 best destinations 
+* Get hotels' info about top 10 destinations
 * Store all the information above in a data lake
 * Extract, transform and load cleaned data from your datalake to a data warehouse
 
 ## Deliverable 📬
-
-To complete this project, your team should deliver:
-
-* A `.csv` file in an S3 bucket containing enriched information about weather and hotels for each french city
-
-* A SQL Database where we should be able to get the same cleaned data from S3 
-
-* Two maps where you should have a Top-10 destinations and a Top-20 hotels in the area.
+* The map of the 10 destinations according to weather conditions (lowest precipitation and highest temperature) is available in the notebook in the folder "Get weather data".
+* The map of the 10 destinations with hotels' information is available in the notebook in the folder "Get hotel data".
+* The csv file is vailable in the folder "S3 and AWS RDS". Note that the AWS account has been desactivated (keys are not working anymore), DO NOT RUN the code it won't work.
