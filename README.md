@@ -2,6 +2,9 @@
 
 ![Kayak](https://seekvectorlogo.com/wp-content/uploads/2018/01/kayak-vector-logo.png)
 
+## Project's presentation 🎥
+https://share.vidyard.com/watch/sRvndFSCgH9rhikkbgucc1?![image](https://user-images.githubusercontent.com/94960539/175512041-d2d9a857-d009-4cf4-943e-1bc2604f3e1e.png)
+
 ## Goals 🎯
 * Get weather data for a list of destinations and determine the top 10 best destinations 
 * Get hotels' info about top 10 destinations
